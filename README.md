@@ -1,9 +1,9 @@
-# File Migration SDK
+# OneDrive Migration SDK
 
 ## Overview
 
 This SDK provides an API for migrating files to cloud storage platforms :: Microsoft OneDrive. It simplifies the migration process by
- enabling programmatic control over the file transfer, allowing for batch migration, folder structures, and metadata preservation.
+enabling programmatic control over the file transfer, allowing for batch migration, folder structures, and metadata preservation.
 
 ## Features
 
