@@ -8,7 +8,7 @@ import (
 	"context"
 	"os"
 
-	"github.com/pewssh/onedrive/onedrive"
+	"github.com/0chain/onedrive/onedrive"
 
 	"golang.org/x/oauth2"
 )
